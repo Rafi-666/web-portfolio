@@ -1,0 +1,124 @@
+body{
+     font-family: 'Poppins', sans-serif;
+     margin: 0%;
+}
+
+
+h1{
+    font-size: 
+}
+.amarnaam{
+    color: blueviolet;
+}
+.division_alada_class_same_thaka_lagbe{
+    width: 40%;
+    float: left;
+    margin: 5%;
+}
+
+.division_alada_class_same_thaka_lagbe img{
+    
+    width: 70%;
+    /*align-items: right;*/
+}
+
+/*ei khetre backgournd image ta add korte hobe section a*/
+.prothom_add_kora_backgorund_image{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+
+section{
+    height: 500px;
+}
+
+.edit_kora_button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgba(239, 134, 85, 0.68), blueviolet);
+    /*background-color: blueviolet;*/
+    color: white;
+    font-weight: bolder;
+    padding: 5px 10px; /*vertical horizontal*/
+    border-radius: 5px;
+}
+
+section{
+    padding: 30px;
+}
+
+
+.second_portion_division{
+
+    width: 50%;
+    float: left;
+    
+}
+
+.second_portion_division img{
+    width: 55%;
+}
+
+.second_portion_division p{
+    padding-right: 30px;
+}
+
+.second_portion_anchor{
+
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange, blueviolet);
+    width: fit-content;
+    /*background-color: orange;*/
+    padding: 5px 10px;
+    font-weight: bolder;
+    color: white;   
+}
+
+.background_image_add_korte_hobe_SECTION_a{
+
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;  
+}
+
+.The_third_section_Articles{
+    float: left;
+    width: 30%;
+    padding: 2px 80px;
+    margin: 20px;
+
+    box-shadow: 1px 1px 40px gray;
+}
+
+.The_third_section_h3{
+    color: orange;
+}
+
+.This_is_the_third_section_of_this_website{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.This_is_the_third_section_of_this_website h1{
+    padding-left: 24px;
+
+}
+
+
+#First_Artcles_ID{
+    border-left: 7PX solid; /*ekhane red black white jei color e dei, doesnt matter*/
+    border-image: linear-gradient(blueviolet, pink);
+    border-image-slice: 1; /*ekhaneo 1,2,3 jaa e dei doesnt matter*/
+    background: white;
+}
+
+#Second_Artcles_ID{
+    border-left: 7PX solid;
+    border-image: linear-gradient(   red, blueviolet);
+    border-image-slice: 5;
+}
+
+footer p{
+    text-align: center;
+}
